@@ -1,0 +1,1 @@
+Link imagem Docker Hub: https://hub.docker.com/r/lucasggtech/fullcycle-go
